@@ -15,6 +15,6 @@ Ref:
 - [Jenkins-PHP](http://jenkins-php.org/index.html)
 
 Todo:
-- [ ] Move Build file into build directory to make isolate package
+- [x] Move Build file into build directory to make isolate package
 - [ ] Write a guide to use it with Jenkins or run it manually
 - [ ] Write a guide to setup Jenkins
